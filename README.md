@@ -16,6 +16,6 @@ a ciunspea modificare
 Pe bune a ciunspea?....
 
 
-Am modificat directorul is am creat o ramura nou!
+Am modificat directorul si am creat o ramura nou!
 
 De publicat in GitHub!
